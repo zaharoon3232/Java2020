@@ -4,6 +4,6 @@ public class One
         System.out.println("hello world");
 
 
-        System.out.println("zaid_hhuhu");
+
     }
 }
